@@ -1,8 +1,8 @@
-# Eye-Movement-Exercise
+# Eye-Movement-Exercise:
 
 
 
-# Description 
+# Description: 
 
 
 
@@ -16,7 +16,7 @@
 <li>Run the project.
 
 # Road Map of Future Improvements: 
-<li>In the future I would add eye-color change functionality;
+<li>In the future I would add eye-color change functionality,
 <li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 
