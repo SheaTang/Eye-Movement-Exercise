@@ -3,6 +3,10 @@
 
 
 # Description: 
+The Eye Movement Exercise is a great depiction of what is possible when `HTML` , `CSS` , and `JavaScript` come together. The exercise creates a webpage with two synchronized eyes that follow the user’s mouse movement. The Eye Movement exercise is a Mouse event that binds the DOM elements to certain events. Some of the events are as follows: 
+- `click` is triggered when the mouse is clicked. 
+- `mousemove` is triggered when the mouse moves over an element; triggering the `mousemove` element updates the position of the "eye" element displayed on the page.
+- `mouseleave` is triggered when the mouse leaves the element; triggering the `mouseleave` element occurs by moving the mouse away from the element. 
 
 
 
